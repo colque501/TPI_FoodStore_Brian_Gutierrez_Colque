@@ -1,0 +1,30 @@
+# Python / FastAPI
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node / Frontend
+node_modules/
+dist/
+.pnpm-store/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Entorno y Configuración Local
+.env
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.local
+
+# Archivos de build TypeScript
+*.tsbuildinfo
